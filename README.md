@@ -1,7 +1,7 @@
 # Used Car Price Prediciton
 Price Prediciton Using Explainable Boosting Machines
 
-Date: March 6, 2024
+Date: March, 2024
 
 Name: 
 Forough Mofidi
