@@ -3,11 +3,8 @@ Price Prediciton Using Explainable Boosting Machines
 
 Date: March, 2024
 
-Name: 
-Forough Mofidi
-Bonny Mathew
-Shaojie Chen
-Naoki Tsumoto
+## Contributors
+Forough Mofidi ,Bonny Mathew, Shaojie Chen, Naoki Tsumoto
 
 ## Table of Content
   Context and Objectives
