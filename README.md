@@ -4,7 +4,7 @@ Price Prediciton Using Explainable Boosting Machines
 Date: March, 2024
 
 ## Contributors
-Forough Mofidi ,Bonny Mathew, Shaojie Chen, Naoki Tsumoto
+Forough Mofidi ,Bonny Mathew, Shaojie Chen, Naoki Tsumoto ([@NookeryCafe](https://github.com/NookeryCafe))
 
 ## Table of Content
   Context and Objectives
