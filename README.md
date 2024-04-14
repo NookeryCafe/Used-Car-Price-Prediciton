@@ -91,8 +91,6 @@ Substitute for Randomized Controlled Trials: While PSM is sometimes used as an a
 ## Chapter 3: Conclusions and Future Study
 ### Conclusions and Future Study
 #### Conclusions: 
-It was found that using non-linear models is necessary to maintain high prediction accuracy in predicting used car prices in the US market, due to the complex relationships within the market.
-Particularly, being a hybrid vehicle is an important feature, and it has been confirmed using XAI methods that it brings a premium price of XXX USD to the market.
-This result implies a latent need in the US market for high fuel efficiency, meaning there is a demand to reduce gasoline expenses and the frequency of visits to gas stations for regular commutes.
-Future Study
-The data used in this study is somewhat outdated, being only up to 2020, and thus less influenced by recent environmental shifts towards carbon neutrality. Therefore, analyzing with the latest data considering current trends, such as electric vehicles (EVs), is believed to lead to a more fundamental understanding of the market.
+In conclusion, our goal was to understand the structure of used car prices in the US. We found that nonlinear models are better suited to capturing the market's complexity. 
+By employing Explainable AI (XAI) techniques, we revealed a premium for HVs in brands like Ford and Toyota, while overall, HVs have a negative market impact. This reinforces the complexity of the market.
+Future research must address the dataset's timeframe and consider the increasing focus on carbon neutrality in the automotive industry, which raises expectations for HVs and necessitates the inclusion of emerging elements like EVs.
